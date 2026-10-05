@@ -7,4 +7,4 @@ Installers for **Job Scout**, a free desktop app that finds new jobs like the on
 - Mac (Apple Silicon and Intel, macOS 11 or later): `Job-Scout-mac.dmg`
 - Windows 10 and 11: `Job-Scout-Setup.exe`
 
-Free and provided as-is under the MIT License. Built by [Jon Richards](https://www.linkedin.com/in/jonrrichards/) at [UpSkillPros](https://upskillpros.com).
+Free to use and provided as-is. A Job Scout Pro edition with premium features is coming soon. Built by [Jon Richards](https://www.linkedin.com/in/jonrrichards/) at [UpSkillPros](https://upskillpros.com).
